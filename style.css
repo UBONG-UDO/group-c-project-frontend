@@ -13,7 +13,7 @@ a {
 .page-wrapper {
   max-width: 1200px;
   margin: 0 auto;
-  border: red solid 1px;
+  border: 1px;
 }
 
 /* === Newsletter Section === */
@@ -88,6 +88,7 @@ a {
   font-size: 3rem;
   font-family: 'Montserrat', sans-serif;
   margin-bottom: 3rem;
+  margin-top: auto;
 }
 
 .footer-column {
