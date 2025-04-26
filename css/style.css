@@ -364,5 +364,136 @@ h1 {
  padding-left: 185px;
 }
 
+/* SECTION 7 */
 
- 
+.multi-bg{
+  width: 1440px;
+  height: auto;
+  background-image: url('./images/Rectangle298.png'), ;
+}
+
+.sec7-bg img{
+  position: relative;
+  margin-top: 200px;
+  width: 1440px;
+  height: auto;
+  margin-to;
+  border: #131212 solid;
+}
+.sec7-img{
+  position: absolute;
+  top: 3080px;
+  margin-left: 450px;
+  display: inline-block;
+  z-index: 1;
+}
+.sec7-img img{
+  width: 826px;
+  height: 835.75px;
+  border: #980808 solid;
+
+}
+.sec7-img .overlay{
+  margin-top: 0px;
+  position: absolute;
+  top: 10px; left: 50px;
+  width: 100%; height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  pointer-events: none;
+}
+
+.sec7-h2{
+  position: absolute;
+  margin-top: 280px;
+  margin-left: 120px;
+  z-index: 1;
+  width: 535px;
+  height: 172px;
+  font-weight: 600;
+  font-size: 55px;
+  line-height: 155%;
+}
+.sec7-para{
+  position: absolute;
+  margin-top: 620px;
+  margin-left: 130px;
+  z-index: 1;
+  width: 1148px;
+  height: 252px;
+  font-weight: 200;
+  font-size: 32px;
+  line-height: 130%;
+  color: #333333;
+}
+.year1985 {
+  position: absolute;
+  margin-top: 800px;
+  margin-left: 920px;
+  z-index: 1;
+  width: 433px;
+  height: 264px;
+  font-weight: 700;
+  font-size: 170px;
+  line-height: 155%;
+}
+.year1985 img{
+  width: 100%;
+  height: auto;
+}
+.aca{
+  position: absolute;
+  margin-top: 770px;
+  margin-left: 1050px;
+  z-index: 1;
+  width: 200px;
+  height: 90px;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 100%;
+}
+
+ .loader{
+  position: absolute;
+  margin-top: 290px;
+  margin-left: 1105px;
+  z-index: 1;
+  width: px;
+  height: px;
+ }
+.loader img{
+  width: 10px;
+  height: 295.69px;
+}
+
+.sec7-ol{
+  position: absolute;
+  margin-top: 265px;
+  margin-left: 1110px;
+  z-index: 1;
+  width: 175px;
+  height: 62px;
+  font-weight: 400;
+font-size: 40px;
+line-height: 155%;
+color: #333333;
+
+}
+ol li{
+  margin-bottom: 1rem;
+}
+
+/* .sec7-ul{
+  height: 60px;
+  line-height: 60px;
+  padding: 0 1rem;
+  list-style: none;
+  margin: 0;
+  white-space: nowrap;
+  
+} */
+/* .sec7-ul li{
+display: inline-block;
+vertical-align: middle;
+margin-right: 1.5rem;
+line-height: normal;
+} */
